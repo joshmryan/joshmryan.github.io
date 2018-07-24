@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/publication/constructing_congressional/</loc>
+      <loc>/publication/constructing_congressional/</loc>
       <lastmod>2018-05-12T00:00:00-06:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/publication/partisan_divisiveness/</loc>
+      <loc>/publication/partisan_divisiveness/</loc>
       <lastmod>2018-05-12T00:00:00-06:00</lastmod>
     </url>
     
@@ -23,7 +23,16 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/talk/example-talk/</loc>
+      <loc>/publication/veto_override/</loc>
+      <lastmod>2018-05-12T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -50,7 +59,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -59,7 +68,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/project/deep-learning/</loc>
+      <loc>/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
     </url>
     
@@ -68,7 +77,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/project/example-external-project/</loc>
+      <loc>/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
     </url>
     
@@ -77,7 +86,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/post/getting-started/</loc>
+      <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-07:00</lastmod>
     </url>
     
@@ -86,7 +95,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -95,7 +104,16 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/tags/academic/</loc>
+      <loc>/post/2015-07-23-r-rmarkdown.knit/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -105,7 +123,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -114,7 +132,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/tags/deep-learning/</loc>
+      <loc>/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -124,7 +142,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/tags/demo/</loc>
+      <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -134,7 +152,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/</loc>
+      <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -144,7 +162,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/tags/plot/</loc>
+      <loc>/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -154,7 +172,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -164,7 +182,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/categories/r/</loc>
+      <loc>/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -174,7 +192,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/tags/r-markdown/</loc>
+      <loc>/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -184,7 +202,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/tags/regression/</loc>
+      <loc>/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -194,7 +212,7 @@
     
     <url>
     
-      <loc>https://joshmryan.github.io/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>

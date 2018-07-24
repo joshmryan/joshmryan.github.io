@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Josh M. Ryan</title>
-    <link>https://joshmryan.github.io/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on Josh M. Ryan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://joshmryan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Constructing the Congressional Agenda: Uncertainty and the Dynamics of Legislative Attention.</title>
-      <link>https://joshmryan.github.io/publication/constructing_congressional/</link>
+      <title>Constructing the Congressional Agenda: Uncertainty and the Dynamics of Legislative Attention</title>
+      <link>/publication/constructing_congressional/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://joshmryan.github.io/publication/constructing_congressional/</guid>
+      <guid>/publication/constructing_congressional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partisan Dynamics in Presidential Primaries and Campaign Divisiveness</title>
-      <link>https://joshmryan.github.io/publication/partisan_divisiveness/</link>
+      <link>/publication/partisan_divisiveness/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://joshmryan.github.io/publication/partisan_divisiveness/</guid>
+      <guid>/publication/partisan_divisiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veto Override Requirements and Executive Success</title>
+      <link>/publication/veto_override/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/veto_override/</guid>
       <description></description>
     </item>
     
