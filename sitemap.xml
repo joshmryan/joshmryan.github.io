@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/teaching/teaching/</loc>
+      <lastmod>2018-08-15T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/constructing_congressional/</loc>
       <lastmod>2018-05-12T00:00:00-06:00</lastmod>
     </url>
@@ -97,6 +106,51 @@
     
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/cue-taking/</loc>
+      <lastmod>2015-05-12T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/veto_powers_and_coalitions/</loc>
+      <lastmod>2015-05-12T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/redistricting_commissions/</loc>
+      <lastmod>2015-05-12T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/conference_committees/</loc>
+      <lastmod>2014-05-12T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/redistricting_module/</loc>
+      <lastmod>2014-05-12T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -205,6 +259,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/</loc>
+      <lastmod>2018-08-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     

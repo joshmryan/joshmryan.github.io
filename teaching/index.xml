@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Josh M. Ryan</title>
+    <link>/teaching/</link>
+    <description>Recent content in Teachings on Josh M. Ryan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/teaching/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/teaching/teaching/</guid>
+      <description>I have taught the following courses (click for syllabus):
+ Introduction to American Politics
+ Congress
+ Research Methods
+ The Presidency
+ Political Representation
+ State and Local Politics
+ Political Networks
+ American Politics Field Seminar (Graduate)
+ American Institutions Seminar (Graduate)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

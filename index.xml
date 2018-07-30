@@ -11,6 +11,36 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Teaching</title>
+      <link>/teaching/teaching/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/teaching/teaching/</guid>
+      <description>&lt;p&gt;I have taught the following courses (click for syllabus):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/syllabi/Intro to American - Spring 18.pdf&#34;&gt;Introduction to American Politics&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/syllabi/Congress syllabus.pdf&#34;&gt;Congress&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/syllabi/Research Methods - Spring 18.pdf&#34;&gt;Research Methods&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/syllabi/Presidency syllabus - fall 14.pdf&#34;&gt;The Presidency&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/syllabi/Representation syllabus - Spring 2014.pdf&#34;&gt;Political Representation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/syllabi/State and local - Spring 2015.pdf&#34;&gt;State and Local Politics&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/syllabi/Networks Syllabus-Spring 2015.pdf&#34;&gt;Political Networks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/syllabi/American_Politics_Seminar_Sample_Syllabus-Compiled.pdf&#34;&gt;American Politics Field Seminar (Graduate)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/syllabi/GradSyllabusSpring16-compiled.pdf&#34;&gt;American Institutions Seminar (Graduate)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Constructing the Congressional Agenda: Uncertainty and the Dynamics of Legislative Attention</title>
       <link>/publication/constructing_congressional/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 -0600</pubDate>
@@ -308,6 +338,51 @@ Figure 1: A fancy pie chart.
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Examining Legislative Cue-Taking in the U.S. Senate</title>
+      <link>/publication/cue-taking/</link>
+      <pubDate>Tue, 12 May 2015 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/cue-taking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gubernatorial Veto Powers and the Size of Legislative Coalitions</title>
+      <link>/publication/veto_powers_and_coalitions/</link>
+      <pubDate>Tue, 12 May 2015 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/veto_powers_and_coalitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Redistricting Commissions on District Partisanship and Member Ideology</title>
+      <link>/publication/redistricting_commissions/</link>
+      <pubDate>Tue, 12 May 2015 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/redistricting_commissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference Committee Proposal Rights and Policy Outcomes in the States</title>
+      <link>/publication/conference_committees/</link>
+      <pubDate>Mon, 12 May 2014 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/conference_committees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redistricting in the Classroom: A Module for Interactive Learning</title>
+      <link>/publication/redistricting_module/</link>
+      <pubDate>Mon, 12 May 2014 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/redistricting_module/</guid>
+      <description></description>
     </item>
     
   </channel>
