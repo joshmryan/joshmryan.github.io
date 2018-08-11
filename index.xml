@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Selected Working Papers</title>
+      <link>/working_papers/working_papers/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/working_papers/working_papers/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tinyurl.com/yclwv6jz&#34; target=&#34;_blank&#34;&gt;Party Effects in State Legislative Committees&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tinyurl.com/y9juu7ok&#34; target=&#34;_blank&#34;&gt;Overcoming Gridlock with the Appropriations Process in the U.S. Congress&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tinyurl.com/y7mmeaxw&#34; target=&#34;_blank&#34;&gt;The Network of Proposed Bills in Congress Reveals Both Productivity and Idleness&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tinyurl.com/y9p8286h&#34; target=&#34;_blank&#34;&gt;The Limits of Majority Party Power in the House: Evidence from Standing Committee Votes&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>/teaching/teaching/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 -0600</pubDate>
@@ -377,20 +395,11 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Redistricting in the Classroom: A Module for Interactive Learning</title>
-      <link>/publication/redistricting_module/</link>
+      <title>Party Effects in State Legislative Committees</title>
+      <link>/publication/party_effects/</link>
       <pubDate>Mon, 12 May 2014 00:00:00 -0600</pubDate>
       
-      <guid>/publication/redistricting_module/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconsidering the `Palin Effect&#39; in 2008</title>
-      <link>/publication/palin_effect/</link>
-      <pubDate>Sun, 12 May 2013 00:00:00 -0600</pubDate>
-      
-      <guid>/publication/palin_effect/</guid>
+      <guid>/publication/party_effects/</guid>
       <description></description>
     </item>
     
