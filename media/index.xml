@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on Josh M. Ryan</title>
+    <link>/media/</link>
+    <description>Recent content in Media on Josh M. Ryan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Media</title>
+      <link>/media/media/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/media/media/</guid>
+      <description>Interviewed by Politifact.com on the government shutdown on January 17, 2019.
+ Interviewed by Politifact.com on voting records and government shutdowns on August 6, 2018.
+ Interviewed by Politifact.com on Florida Senator Bill Nelson&amp;rsquo;s legislative productivity on April 11 and April 19, 2018.
+ Interviewed by Politifact.com on the government shutdown on January 22, 2018 and previous shutdowns January 22, 2018.
+ Interviewed by Politifact.com on the health care repeal bill, Senate procedures, and conference committees on July 26, 2017 and July 30, 2017.</description>
+    </item>
+    
+  </channel>
+</rss>

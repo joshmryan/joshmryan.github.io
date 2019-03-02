@@ -5,8 +5,17 @@
     
     <url>
     
+      <loc>/media/media/</loc>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/working_papers/working_papers/</loc>
-      <lastmod>2018-08-15T00:00:00-06:00</lastmod>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -114,6 +123,15 @@
     <url>
     
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2015-07-23-r-rmarkdown.knit/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -243,6 +261,16 @@
     
     <url>
     
+      <loc>/media/</loc>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
@@ -314,7 +342,7 @@
     <url>
     
       <loc>/working_papers/</loc>
-      <lastmod>2018-08-15T00:00:00-06:00</lastmod>
+      <lastmod>2019-01-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
