@@ -23,7 +23,7 @@
   {
     "objectID": "votes_data.html",
     "href": "votes_data.html",
-    "title": "U.S. House Committees Votes Data",
+    "title": "U.S. House Committee Votes Data",
     "section": "",
     "text": "See the attached working paper for additional details on the dataset. A codebook is included in the Appendix.\nPlease cite the working paper when using the dataset: Ryan, Josh M. and Ryan Bell. 2022. ``The U.S. House Committee Votes Dataset.” Working Paper. joshmryan.github.io/votes_data.\nSupport for this project provided by the Social Science Research Council’s ``Negotiating Agreement in Congress Research Grants,” 2016.\nThis version: November 1, 2022.\n\nPaper and codebook\nData (.7z file, unzips to 72MB .csv)"
   },
