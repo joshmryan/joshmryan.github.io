@@ -1,0 +1,41 @@
+{
+  "about.qmd": {
+    "about.html": "59c51cb5"
+  },
+  "index.qmd": {
+    "index.html": "201acb2c"
+  },
+  "media.qmd": {
+    "media.html": "bdf9f42c"
+  },
+  "publications.qmd": {
+    "publications.html": "4082196e"
+  },
+  "teaching.qmd": {
+    "teaching.html": "ac3692d0"
+  },
+  "test.qmd": {
+    "test.html": "40cd443f"
+  },
+  "textbook.qmd": {
+    "textbook.html": "5c206406"
+  },
+  "votes_data.qmd": {
+    "votes_data.html": "c9543e7c"
+  },
+  "working_papers.qmd": {
+    "working_papers.html": "87a8d8c6"
+  },
+  "utah_cutt_slam.qmd": {
+    "utah_cutt_slam.html": "4b9804cd"
+  },
+  "fishing_overview.qmd": {
+    "fishing_overview.html": "7b01ed04"
+  },
+  "wyoming_cutt_slam.qmd": {
+    "wyoming_cutt_slam.html": "d426ee01"
+  },
+  "nevada_fish_slam.qmd": {
+    "nevada_fish_slam.html": "fc71b429"
+  }
+}
