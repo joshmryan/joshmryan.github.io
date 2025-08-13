@@ -10,7 +10,7 @@ Please cite the working paper when using the dataset:<br> Ryan, Josh M. and Ryan
 
 Support for this project provided by the Social Science Research Council's "Negotiating Agreement in Congress Research Grants," 2016.
 
-I am currently working on an update for the 115th through 118th Congresses. Changes to how committees report these votes have slowed the process, but I hope to complete the update by Fall 2024.
+**I am currently working on an update for the 115th through 118th Congresses. Changes to how committees report these votes have slowed the process, but as of Summer 2025, I have made substantial progress and hope to update the data by Fall 2025.**
 
 This version: ~~November 1, 2022.~~ December 2, 2022 (updated to include vote descriptions).
 
