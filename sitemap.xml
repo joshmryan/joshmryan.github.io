@@ -2,26 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/</loc>
-  </url><url>
-    <loc>/media/</loc>
-  </url><url>
-    <loc>/publications/</loc>
-  </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/teaching/</loc>
-  </url><url>
-    <loc>/test-simple/</loc>
-  </url><url>
-    <loc>/textbook/</loc>
-  </url><url>
-    <loc>/data/</loc>
-  </url><url>
-    <loc>/working_papers/</loc>
   </url>
 </urlset>
